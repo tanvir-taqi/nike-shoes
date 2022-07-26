@@ -1,0 +1,40 @@
+.logo-img{
+    width: 200px;
+    height: 40px;
+    
+}
+.menu-font{
+    font-size: 1.2rem;
+    color: black;
+    font-weight: 600;
+    
+}
+header{
+    background: #FFF9F4;
+}
+.title-banner {
+    font-size: 3rem;
+    font-weight: 700;
+}
+.banner-title0color1{
+    color: #FA804C;
+}
+.banner-title0color2{
+    color: #363958;
+}
+
+.buy-now-btn{
+    background: linear-gradient(90deg, #3D4FF3 0%, #3543BC 100%);
+border-radius: 10px;
+color: #FFF9F4;
+
+transition: all 0.5s ease;
+}
+.buy-now-btn:hover{
+    background: linear-gradient(130deg, #b1afae6b 0%, #3543BC 100%);
+    color: #FFF9F4;
+    
+}
+.all-card-img{
+    background: #FFF9F4;
+}
